@@ -1,0 +1,19 @@
+#################################################
+# AICC Malicious Open Data v1.0                 #
+#################################################
+# AICC Threat Intelligence Platform             #
+#  by MONITORAPP                                #
+#                                               #
+# Malicious IP (Plain-Text)                     #
+#                                               #
+# For questions & more information              #
+#  please contact aicc [at] monitorapp.com      #
+#################################################
+# 2022-04-28 01:50:02.301317927 +0900 KST
+#
+# ip
+#
+119.17.192.102
+164.92.96.45
+66.29.154.65
+...
