@@ -1,0 +1,18 @@
+#################################################
+# AICC Malicious Open Data v1.0                 #
+#################################################
+# AICC Threat Intelligence Platform             #
+#  by MONITORAPP                                #
+#                                               #
+# Malicious File Hash (Plain-Text)              #
+#                                               #
+# For questions & more information              #
+#  please contact aicc [at] monitorapp.com      #
+#################################################
+# 2022-04-28 01:30:02.110608849 +0900 KST
+#
+# file_hash
+#
+00715bdb8c3ca4fb7e72fd3fb284b9fc
+006bfc100adee538923775e24a01eb0a
+006f1e19d47902c3a1ce00a6e8b8b79a
