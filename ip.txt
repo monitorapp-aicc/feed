@@ -1,18 +1,19 @@
 #################################################
-# AICC Malicious Open Data v1.1                 #
+# AILabs Malicious Open Data v2.1               #
 #################################################
-# AICC Threat Intelligence Platform             #
+# AILabs Threat Intelligence Platform           #
 #  by MONITORAPP                                #
 #                                               #
 # Malicious IP (Plain-Text)                     #
 #                                               #
 # For questions & more information              #
-#  please contact aicc [at] monitorapp.com      #
+#  please contact ailabs [at] monitorapp.com    #
 #################################################
-# 2023-07-26 01:50:04.573829395 +0900 KST
+# 2023-07-27 01:50:02.434699264 +0900 KST
 #
 # ip
 #
+38.45.125.10
 101.13.1.17
 92.205.191.187
 137.184.20.188
@@ -1012,4 +1013,3 @@
 197.6.129.89
 222.254.52.16
 117.206.119.81
-188.162.132.127
