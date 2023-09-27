@@ -1,0 +1,45 @@
+#################################################
+# AILabs Malicious Open Data v2.1               #
+#################################################
+# AILabs Threat Intelligence Platform           #
+#  by MONITORAPP                                #
+#                                               #
+# Ransomware Hash (Plain-Text)                  #
+#                                               #
+# For questions & more information              #
+#  please contact ailabs [at] monitorapp.com    #
+#################################################
+# 2023-09-27 14:56:19.658014038 +0900 KST
+#
+# ransomware
+#
+230264532693d60019bea5f6d9c825d1
+466b9d0381ff864f64d8f4dfe16e76b9
+45de70c85ece8763c685808eea085df4
+445d394f5d118f6ebd692f06720ef263
+42fdf557c2eaed4cde25c9bd9e0f9421
+42beee04cd0730b33afd7c195b711617
+42b5969e75ddbc56366ceeaf1880652d
+4299be38e3e0241d789ef38be88a7cbc
+41af43f40a498a5720d2a79283e0d986
+409fc3d1aeb7481201cbf4eb6a18ac04
+3ec6ee54068025455aacec687fc4ba80
+3ec15a63d623aee1059a67d36f5f4dc4
+3ca4071f2c54766d1b3ee508ce3c078c
+3a819b0614d2093a3685030f1c1477d5
+3a5cb845c44d34268f613ad7c049641f
+356892983065d921f658549de62872d2
+31c1e723635b78423ced394ac758855a
+2f8327cff48482df0e0a434db098ddc3
+2f090877b87d9e86f5b960ecc4f30983
+2d07a6e2d96ec107110790fa34cfff85
+2b926f8b92a5159a7c1337475c47661a
+2b13a2e559f8237dc03a819f871063e7
+1db261e7f8d4cd79deeccebfef0eaa13
+bae86743ee72b5f5d00c1a7df5981c6a
+9061e64d817eff7d5e37e78a13ff4d28
+57403da8678652e86c1322aae3b5d952
+0cce35556ebd5499fb3d44bd16226789
+5bdce2b4f3585867d80ea57176099d81
+4de0852d1496c803b17e3990f0411c54
+285c30c7ddfd6e3e8fd18b1dc6b0a033
