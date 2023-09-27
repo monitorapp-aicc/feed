@@ -1,6 +1,6 @@
 # AILabs Feed
 AILabs Malicious Open Data v2.1 Feed
-(AILabs <- AICC)
+(AILabs ← AICC)
 
 AILabs Threat Intelligence Platform by MONITORAPP
 
