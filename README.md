@@ -1,30 +1,31 @@
-# AICC Feed
-AICC Malicious Open Data v1.0 Feed
+# AILabs Feed
+AILabs Malicious Open Data v2.1 Feed
+(AILabs ← AICC)
 
-AICC Threat Intelligence Platform by MONITORAPP
+AILabs Threat Intelligence Platform by MONITORAPP
 
-1. Malicious URL (Plain-Text): https://aicc.monitorapp.com/feed/url
-2. Malicious File Hash (Plain-Text): https://aicc.monitorapp.com/feed/file
-3. Malicious IP (Plain-Text): https://aicc.monitorapp.com/feed/ip
+1. Malicious URL (Plain-Text): https://ailabs.monitorapp.com/feed/url
+2. Malicious File Hash (Plain-Text): https://ailabs.monitorapp.com/feed/file
+3. Malicious IP (Plain-Text): https://ailabs.monitorapp.com/feed/ip
 
-For questions & more information please contact aicc@monitorapp.com
+For questions & more information please contact ailabs@monitorapp.com
 
 ---
 ## 1. Malicious URL
 
 ```
 #################################################
-# AICC Malicious Open Data v1.0                 #
+# AILabs Malicious Open Data v2.1               #
 #################################################
-# AICC Threat Intelligence Platform             #
+# AILabs Threat Intelligence Platform           #
 #  by MONITORAPP                                #
 #                                               #
 # Malicious URL (Plain-Text)                    #
 #                                               #
 # For questions & more information              #
-#  please contact aicc [at] monitorapp.com      #
+#  please contact ailabs [at] monitorapp.com    #
 #################################################
-# 2022-04-28 01:10:02.042110886 +0900 KST
+# 2023-09-27 01:10:03.015408317 +0900 KST
 #
 # url
 #
@@ -39,17 +40,17 @@ http://175.200.241.171:3824/Mozi.m
 
 ```
 #################################################
-# AICC Malicious Open Data v1.0                 #
+# AILabs Malicious Open Data v2.1               #
 #################################################
-# AICC Threat Intelligence Platform             #
+# AILabs Threat Intelligence Platform           #
 #  by MONITORAPP                                #
 #                                               #
 # Malicious File Hash (Plain-Text)              #
 #                                               #
 # For questions & more information              #
-#  please contact aicc [at] monitorapp.com      #
+#  please contact ailabs [at] monitorapp.com    #
 #################################################
-# 2022-04-28 01:30:02.110608849 +0900 KST
+# 2023-09-27 01:30:02.188129946 +0900 KST
 #
 # file_hash
 #
@@ -64,17 +65,17 @@ http://175.200.241.171:3824/Mozi.m
 
 ```
 #################################################
-# AICC Malicious Open Data v1.0                 #
+# AILabs Malicious Open Data v2.1               #
 #################################################
-# AICC Threat Intelligence Platform             #
+# AILabs Threat Intelligence Platform           #
 #  by MONITORAPP                                #
 #                                               #
 # Malicious IP (Plain-Text)                     #
 #                                               #
 # For questions & more information              #
-#  please contact aicc [at] monitorapp.com      #
+#  please contact ailabs [at] monitorapp.com    #
 #################################################
-# 2022-04-28 01:50:02.301317927 +0900 KST
+# 2023-09-27 01:50:02.435626213 +0900 KST
 #
 # ip
 #
