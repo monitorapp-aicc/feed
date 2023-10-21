@@ -9,10 +9,11 @@
 # For questions & more information              #
 #  please contact ailabs [at] monitorapp.com    #
 #################################################
-# 2023-10-21 01:51:02.490385549 +0900 KST
+# 2023-10-22 01:51:02.213992433 +0900 KST
 #
 # ransomware
 #
+a024832e60d3d4f097b1bf44c04b8c46
 9ee96b55ca5d8f6b1742dda6f9c1d041
 9ea7eb4d2236b21ff10dabdb70dd6b62
 9e593c132c5c1a5e36b545daf3137aca
@@ -42,4 +43,3 @@
 91f674147abaac931634dcd228e8654f
 91f208a3b138d9e3d9b30b148d117817
 9166575f3aa9985bc84a755e907509ae
-90fa7c7e6974cdad356098501659127a
