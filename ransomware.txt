@@ -9,7 +9,7 @@
 # For questions & more information              #
 #  please contact ailabs [at] monitorapp.com    #
 #################################################
-# 2025-03-13 01:51:02.461786485 +0900 KST
+# 2025-03-14 01:51:02.621221069 +0900 KST
 #
 # ransomware
 #
