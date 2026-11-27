@@ -12,7 +12,7 @@
 # feed: ip
 # format: ipv4
 # data_date: 2026-11-27
-# generated: 2026-11-27T18:55:29+09:00
+# generated: 2026-11-28T01:10:01+09:00
 # count: 1000
 # sha256: c8caa0d23ecd9530f1893eb184fc57307239645a421a3fd3654da919d8730bcf
 #

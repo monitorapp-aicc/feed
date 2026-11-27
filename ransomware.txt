@@ -12,7 +12,7 @@
 # feed: ransomware
 # format: md5
 # data_date: 2026-11-27
-# generated: 2026-11-27T18:55:40+09:00
+# generated: 2026-11-28T01:10:15+09:00
 # count: 41
 # sha256: 30f1e92566a1edc532231161fe8398f0bfcb3070c65e87d6c1cad72f2f821fc3
 #

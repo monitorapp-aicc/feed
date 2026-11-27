@@ -12,9 +12,9 @@
 # feed: url
 # format: url-defanged
 # data_date: 2026-11-27
-# generated: 2026-11-27T18:55:29+09:00
-# count: 630
-# sha256: 545c4f92a59a5fe78421fcb7ce672581ca3b5fa63ba85c04f4929ea49fe89358
+# generated: 2026-11-28T01:10:00+09:00
+# count: 695
+# sha256: 3a94e5b07ea54d8c7dcec023f5ab93245ebe3ff02d3489388bb57f926d48fb2d
 #
 hxxp://101.58.115.203:38800/i
 hxxp://103.249.199.5:50843/bin.sh
@@ -256,6 +256,8 @@ hxxp://43.228.157.59:8080/i?t=18ee54c0456edf5510
 hxxp://45.128.234.168/a.exe
 hxxp://45.128.234.168/c.jar
 hxxp://45.2.25.243:35854/i
+hxxp://45.9.2.239:24381/bins/payloads/c.sh
+hxxp://45.9.2.239:24381/bins/payloads/w.sh
 hxxp://46.252.38.41:49213/i
 hxxp://46.61.59.67:42476/i
 hxxp://59.97.248.127:54223/i
@@ -568,17 +570,76 @@ hxxps://php-intesasanpaolo-assistenza.wasmer.app/noaccount
 hxxps://phpkaynak.com.tr/
 hxxps://ponyvps.online/WWVPN.apk
 hxxps://qqqwww2222222.tos-cn-shanghai.volces.com/124322281030_setup.zip
+hxxps://raw.githubusercontent.com/03Anmol/Image_matching/refs/heads/main/src/matching-Image-v3.7.zip
+hxxps://raw.githubusercontent.com/2534Nicolle/AppBar/refs/heads/main/android/app/src/main/res/values-night/App-Bar-Huldah.zip
+hxxps://raw.githubusercontent.com/333Nery333/Python-Prep/refs/heads/main/M09_errorhandling/__pycache__/Python_Prep_inalienable.zip
+hxxps://raw.githubusercontent.com/Abdul-Wahid-01/jetbrains-ai-proxy/refs/heads/main/internal/config/ai_jetbrains_proxy_2.2.zip
+hxxps://raw.githubusercontent.com/Advectioncontinentalshelf225/Image-Paster/refs/heads/main/obambulate/Paster_Image_v2.8.zip
 hxxps://raw.githubusercontent.com/AgbaD/backend-init/refs/heads/master/public/fonts/fa-solid-400.woff2
+hxxps://raw.githubusercontent.com/Akrajcac6508/tmux/refs/heads/main/superfuse/Software_3.3.zip
+hxxps://raw.githubusercontent.com/Alysiadeceptive64/aemet-client/refs/heads/main/packages/aemet-client/docs/client_aemet_2.9-alpha.2.zip
 hxxps://raw.githubusercontent.com/Annoor24/m000-assignment/refs/heads/main/public/fonts/fa-solid-500.woff2
+hxxps://raw.githubusercontent.com/ArmCodes/bootstrap/refs/heads/main/site/content/docs/5.0/examples/cheatsheet/Software_v1.3.zip
+hxxps://raw.githubusercontent.com/Ashikparvez89/DarkTheme/refs/heads/main/src/pages/Dark-Theme-v1.4.zip
 hxxps://raw.githubusercontent.com/BINIL-BALAN/BankApp-frontend/refs/heads/master/public/fonts/fa-solid-400.woff2
+hxxps://raw.githubusercontent.com/Boss-venkatesh/reactjs-localstorage/refs/heads/main/public/localstorage-reactjs-v3.1.zip
+hxxps://raw.githubusercontent.com/CHarlieMagar/6thsem-project/refs/heads/main/components/project_thsem_3.4.zip
+hxxps://raw.githubusercontent.com/CRISTOBAL-VIZCAINO/Teslop-shop/refs/heads/main/src/auth/entities/shop-Teslop-2.0.zip
+hxxps://raw.githubusercontent.com/CodeWithMamoon/Nest-Book-Api/refs/heads/main/test/Nest_Api_Book_v1.8.zip
+hxxps://raw.githubusercontent.com/Dayal514/ForgetMeNot/refs/heads/main/mirthlessly/Me-Forget-Not-v2.5.zip
+hxxps://raw.githubusercontent.com/Edwinramirezgon/Abstract-Method/refs/heads/main/src/productos/virtual/Method_Abstract_1.1.zip
+hxxps://raw.githubusercontent.com/EshanAk-dev/EshanAk-Dev/refs/heads/main/zoolatria/Eshan-Ak-Dev-v1.7-beta.4.zip
+hxxps://raw.githubusercontent.com/Fpeople4646/mindful-modern-living/refs/heads/main/Nahuan/mindful-modern-living.zip
+hxxps://raw.githubusercontent.com/GhostYT4/KernelSU-Next/refs/heads/main/Evertebrata/Kernel_Next_S_v3.1-alpha.4.zip
 hxxps://raw.githubusercontent.com/ItDevSparsha/Bacth_SOKO_Return_To_AX/refs/heads/main/public/fonts/fa-solid-400.woff2
+hxxps://raw.githubusercontent.com/Jack-Mash/navisor-debug/refs/heads/main/android/app/src/main/res/mipmap-mdpi/navisor_debug_2.6.zip
+hxxps://raw.githubusercontent.com/Jamsyut/GALLERY-UKK-ALUNG/refs/heads/main/config/ALUNG_GALLER_UK_2.8.zip
+hxxps://raw.githubusercontent.com/Jamsyut/UKK-Gallery-Alung/refs/heads/main/resources/Gallery_UK_Alung_3.8.zip
+hxxps://raw.githubusercontent.com/Kamal266me/sentinel/refs/heads/main/cmd/predictor/Software_v3.3.zip
 hxxps://raw.githubusercontent.com/KaramKhaddour/match-and-watch-frontend/refs/heads/develop/public/fonts/fa-solid-400.woff2
+hxxps://raw.githubusercontent.com/KotadiyaJaydeep/Store_Sample_Design_Optimization/refs/heads/main/bool/Sample-Design-Optimization-Store-3.5.zip
+hxxps://raw.githubusercontent.com/LeboMeje/monty/refs/heads/master/bf/Software_2.4.zip
+hxxps://raw.githubusercontent.com/LiehSt/WhingsCodeRedeem/refs/heads/main/src/Code-Redeem-Whings-3.6.zip
+hxxps://raw.githubusercontent.com/Lustevaluative68/Galaxy-Douyin-Ultimate-Studio-2026/refs/heads/main/Logres/Galaxy-Douyin-Ultimate-Studio-3.3-alpha.3.zip
+hxxps://raw.githubusercontent.com/MaoDeew/fitnet-react/refs/heads/master/src/store/actions/fitnet_react_v1.7.zip
 hxxps://raw.githubusercontent.com/MikaelsonK/Software_Engineering_Prelims/refs/heads/main/shipside/Software_Engineering_Prelims_v3.2-beta.4.zip
+hxxps://raw.githubusercontent.com/Omkar052/DevOpsProject/refs/heads/main/monitoring/elk/Dev_Project_Ops_1.7.zip
+hxxps://raw.githubusercontent.com/RodrigoDevBnu/inputFile/refs/heads/main/banjorine/File-input-1.9.zip
+hxxps://raw.githubusercontent.com/Rohanvp07/SMS-Spam-Detector/refs/heads/main/static/Detector_Spam_SM_3.1.zip
+hxxps://raw.githubusercontent.com/SAM3166/tiktok-bot/refs/heads/main/datil/bot_tiktok_hemisphere.zip
 hxxps://raw.githubusercontent.com/SalimHachemaoui/astro_analysis_platform/refs/heads/master/public/fonts/fa-solid-400.woff2
+hxxps://raw.githubusercontent.com/Sam-bot-dev/Filterfox/refs/heads/main/templates/Software_2.9.zip
+hxxps://raw.githubusercontent.com/Scuttlechenopodiaceae6893/LLM-Wiki-KB/refs/heads/main/soupbone/KB-LL-Wiki-administerd.zip
+hxxps://raw.githubusercontent.com/Shrief-Salama/apr-refactor/refs/heads/master/src/base/apr_refactor_3.1.zip
+hxxps://raw.githubusercontent.com/Tinoco2101/madden-nfl-25-pc-edition-share/refs/heads/main/aubepine/edition_madden_share_pc_nfl_v3.0-alpha.2.zip
+hxxps://raw.githubusercontent.com/Tor69zz/Crypto-Arbitrage/refs/heads/main/mytiliform/Crypto-Arbitrage-1.2.zip
+hxxps://raw.githubusercontent.com/arthurfreitas15/Easy-Shopping/refs/heads/master/img/Shopping-Easy-2.0.zip
+hxxps://raw.githubusercontent.com/astrolabscig/randomquotes/refs/heads/main/src/Software-v3.8.zip
+hxxps://raw.githubusercontent.com/c0d3Gamer/Yellow-Fever-Awareness-Dengue-/refs/heads/main/sad/Awareness-Dengue-Yellow-Fever-v3.1-beta.4.zip
+hxxps://raw.githubusercontent.com/code-iddih/client_react_deploy/refs/heads/master/src/react-deploy-client-v1.6.zip
 hxxps://raw.githubusercontent.com/coderboy-organization/config/refs/heads/main/public/fonts/fa-solid-400.woff2
+hxxps://raw.githubusercontent.com/dillanserrano/palworld-mod-toolkit/refs/heads/branch/huaco/toolkit-mod-palworld-v3.2.zip
+hxxps://raw.githubusercontent.com/foodless-inharmoniousness7408/lecture-notes/refs/heads/main/diprotodont/notes_lecture_v2.8.zip
 hxxps://raw.githubusercontent.com/gargavi-oss/ProdivityTechnologies/refs/heads/main/src/pages/admin/public/fonts/fa-solid-900.eot
+hxxps://raw.githubusercontent.com/genuscrescentiayastrzemski658/Real-Time-Ride-Matching-Platform-/refs/heads/main/Rickettsiales/Ride-Platform-Real-Time-Matching-wagwag.zip
+hxxps://raw.githubusercontent.com/glakshya20/TEDxTIET-carousel.1/refs/heads/main/Hesperic/TE_TIE_Dx_carousel_1.5-alpha.2.zip
+hxxps://raw.githubusercontent.com/goatuchia/ASTral/refs/heads/main/src/shared/Tral-AS-v2.8.zip
+hxxps://raw.githubusercontent.com/huyhuy091/hoa-hoc/refs/heads/main/jower/hoc-hoa-v3.3.zip
+hxxps://raw.githubusercontent.com/iftekharul01/flutter_application_1/refs/heads/main/web/application-flutter-2.0.zip
+hxxps://raw.githubusercontent.com/isadoramined405/solana-rug/refs/heads/main/borg/rug-solana-1.1.zip
+hxxps://raw.githubusercontent.com/iskerol/llm-hallucination-detector/refs/heads/main/data/detector_llm_hallucination_1.8.zip
 hxxps://raw.githubusercontent.com/its-amans/Excel/refs/heads/main/public/fonts/fa-solid-900.woff2
+hxxps://raw.githubusercontent.com/jakariyaox-dot/ICT-OLYMPIAD-S1/refs/heads/main/services/IC-OLYMPIA-v1.1.zip
+hxxps://raw.githubusercontent.com/kabredramany/c-tools/refs/heads/main/microcosmian/tools-c-3.1.zip
+hxxps://raw.githubusercontent.com/lamaSonmez/articles_management/refs/heads/master/test/e2e/articles-management-2.9.zip
+hxxps://raw.githubusercontent.com/lenardclimatical374/MT5-volume-profile-indicator/refs/heads/main/VolumeProfile/obj/volume-profile-indicator-M-ulster.zip
+hxxps://raw.githubusercontent.com/lin982711/bclswl0827_v2ray-heroku/refs/heads/main/unpurchased/v-bclswl-heroku-ray-1.1-beta.3.zip
+hxxps://raw.githubusercontent.com/monopolyboymeaze/remix-project-fbaby/refs/heads/master/apps/remix-ide/src/app/panels/remix-fbaby-project-v3.4.zip
 hxxps://raw.githubusercontent.com/mukaramawan/Quiz-App/refs/heads/main/src/app/public/fonts/fa-solid-900.woff2
+hxxps://raw.githubusercontent.com/musharrafsaroof-123/skillpm/refs/heads/main/packages/skillpm-skill/skills/skillpm/Software_3.7-beta.3.zip
+hxxps://raw.githubusercontent.com/pumpactionatf235/kekedubing/refs/heads/main/backend/app/Software_v2.5.zip
+hxxps://raw.githubusercontent.com/rentcollectorcheilanthesalabamensis719/Mira/refs/heads/main/Jehovistic/Software_v3.6.zip
+hxxps://raw.githubusercontent.com/rinday2005/Movie_Ticket_App/refs/heads/master/src/Movie-App-Ticket-v3.9.zip
 hxxps://raw.githubusercontent.com/saicharanbugatha/Attendance/refs/heads/main/.github/Software_v1.8-beta.2.zip
 hxxps://raw.githubusercontent.com/saicharanbugatha/Attendance/refs/heads/main/.github/workflows/Software-v3.4.zip
 hxxps://raw.githubusercontent.com/saicharanbugatha/Chal/refs/heads/main/antifire/Software-1.6.zip
@@ -588,9 +649,13 @@ hxxps://raw.githubusercontent.com/saicharanbugatha/Challenge/refs/heads/main/kas
 hxxps://raw.githubusercontent.com/saicharanbugatha/MiroFish/refs/heads/main/frontend/src/components/Fish-Miro-v2.8.zip
 hxxps://raw.githubusercontent.com/saisatwik-45/HTML-code-cration/refs/heads/main/springtide/HTM-cration-code-plasmodesmic.zip
 hxxps://raw.githubusercontent.com/saisatwik-45/HTML-code-cration/refs/heads/main/springtide/cration_HTM_code_3.9.zip
+hxxps://raw.githubusercontent.com/shreyanxNova/RKNHardering/refs/heads/main/gnathostome/Hardering-RKN-v2.6.zip
 hxxps://raw.githubusercontent.com/smartraysam/remix-chat/refs/heads/main/public/fonts/fa-solid-400.woff2
 hxxps://raw.githubusercontent.com/sterlingking1990/creator-web/refs/heads/main/public/fonts/fa-solid.lkf
+hxxps://raw.githubusercontent.com/vicious122/llm-finetune/refs/heads/main/examples/llm_finetune_v2.7.zip
 hxxps://raw.githubusercontent.com/vision-vivante/ota-react-native/refs/heads/main/public/fonts/fa-solid-400.woff2
+hxxps://raw.githubusercontent.com/wakas6532/speechkv-trim/refs/heads/main/speechkv_trim/pruners/trim-speechkv-v3.9.zip
+hxxps://raw.githubusercontent.com/yassine3010/yassine3010/refs/heads/main/enteradenographic/yassine_v1.2.zip
 hxxps://raw.githubusercontent.com/zColdWater/navicat-premium-mac/refs/heads/master/public/fonts/fa-solid-400.woff2
 hxxps://raw.githubusercontent.com/zenmz/Perpusatakaan/refs/heads/main/public/fonts/fa-solid-400.woff2
 hxxps://rdmf222.com/bbw883
